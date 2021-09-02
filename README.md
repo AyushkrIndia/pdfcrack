@@ -2,7 +2,7 @@
 
 This is used to open any password protected pdf using python, whose password is a word from dictionary
 
-The text file can be downloaded from the link - https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+The dictionary words text file can be downloaded from the link - https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
 
 We are using two modules to crack password protected pdf using Python
 
